@@ -26,11 +26,11 @@ More renders are available in the render directory.
 
 
 Files included:  
--Circuit Schematic PDF   
--BOM   
--GERBER Files    
--Drill File    
--Layout PDF  
--Images of the PCB 
--Bode Plots
--3D renders
+>Circuit Schematic PDF   
+>BOM   
+>GERBER Files    
+>Drill File    
+>Layout PDF  
+>Images of the PCB 
+>Bode Plots
+>3D renders
