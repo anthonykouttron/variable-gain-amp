@@ -22,15 +22,13 @@ Here's a photo of the layout from the top view of the board implemented in Pcbne
 Here's a photo of the layout from the bottom view of the board implemented in Pcbnew:
 <a href="https://imgur.com/JLpGlCf"><img src="https://i.imgur.com/JLpGlCf.jpg" title="source: imgur.com" /></a>
 
-More renders are available in the render directory.
-
-
 Files included:  
->Circuit Schematic PDF   
->BOM   
->GERBER Files    
->Drill File    
->Layout PDF  
->Images of the PCB 
->Bode Plots
->3D renders
+  - Circuit Schematic PDF   
+  - BOM   
+  - GERBER Files    
+  - Drill File    
+  - Layout PDF  
+  - Images of the PCB 
+  - Bode Plots
+  - 3D renders
+  
