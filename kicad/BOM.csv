@@ -1,0 +1,14 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,C1,C_0805_HandSoldering,1,100nF,https://www.digikey.com/product-detail/en/avx-corporation/08055C104KAT2A/478-1395-1-ND/564427
+2,C2,C_0805_HandSoldering,1,10uF,https://www.digikey.com/product-detail/en/kemet/C0805C106K8PACTU/399-4925-1-ND/1090920
+3,"C3,C4,C5,C6,C7,C8,C8,C9,C10",C_0805_HandSoldering,8,200pF,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21C201JBANNNC/1276-2601-1-ND/3890687
+4,D1,Diodes_SMD_0805,1,20v,https://www.digikey.com/product-detail/en/avx-corporation/SD0805S020S1R0/478-7800-1-ND/3749510
+5,"J1,J2",Pin_Header_Straight_1x02,2,1985865,https://www.digikey.com/products/en?keywords=phoenix%201985865
+6,J3,MountingHole_3mm MountingHole_3.5mm,1,PJ-037B,https://www.digikey.com/product-detail/en/cui-inc/PJ-002A/CP-002A-ND/96962
+7,R1,R_0805_HandSoldering,1,100ohm,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-6ENF1000V/P100CCT-ND/118668
+8,R2,R_0805_HandSoldering,1,2K,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-6ENF2001V/P2.00KCCT-ND/119044
+9,R3,R_0805_HandSoldering,1,3K,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT3K00/RMCF0805JT3K00CT-ND/1942566
+10,R4,R_0805_HandSoldering,1,10ohm,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-P6WF10R0V/P16861CT-ND/4964900
+11,RV1,Potentiometer_Trimmer_ACP_CA6v_Horizontal,1,10K,https://www.digikey.com/product-detail/en/bourns-inc/3386F-1-103TLF/3386F-103TLF-ND/1232544
+12,SW1,SW_DIP_x08_W7.62mm_Slide_Copal_CHS-B,1,CHS-08TB,https://www.digikey.com/product-detail/en/nidec-copal-electronics/CHS-08TB/563-1012-1-ND/948432
+13,U1,SOT23-5,1,OPA342,https://www.digikey.com/product-detail/en/texas-instruments/OPA342NA-250/OPA342NATR-ND/295571
